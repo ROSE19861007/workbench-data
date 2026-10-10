@@ -1,9 +1,9 @@
 {
   "version": 2,
   "sync": {
-    "url": "",
+    "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": null
+    "lastSync": "2026-10-10T13:01:48.823Z"
   },
   "categories": {
     "学习": {
@@ -788,7 +788,7 @@
       "dueTime": "14:00",
       "remind": false,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
