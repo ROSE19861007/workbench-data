@@ -1,7 +1,826 @@
 {
   "version": 2,
-  "categories": [],
-  "quadrantTasks": [],
-  "inspirationNotes": [],
-  "sync": { "url": "", "token": "", "lastSync": null }
+  "sync": {
+    "url": "",
+    "token": "",
+    "lastSync": null
+  },
+  "categories": {
+    "学习": {
+      "enabled": true,
+      "items": [
+        {
+          "id": "nmt1laf19iyc1b",
+          "type": "group",
+          "title": "英语",
+          "enabled": true,
+          "items": [
+            {
+              "id": "nmt1laf1ago58r",
+              "type": "group",
+              "title": "口语",
+              "enabled": true,
+              "items": [
+                {
+                  "id": "nmt1laf1bpklk4",
+                  "type": "url",
+                  "title": "视频网址",
+                  "enabled": true,
+                  "url": ""
+                },
+                {
+                  "id": "nmt1laf1ctwqyq",
+                  "type": "url",
+                  "title": "小鹅通网址",
+                  "enabled": true,
+                  "url": "https://study.xiaoe-tech.com/#/wx"
+                }
+              ]
+            },
+            {
+              "id": "nmt1laf1dpfu6v",
+              "type": "group",
+              "title": "应试",
+              "enabled": true,
+              "items": [
+                {
+                  "id": "nmt1laf1e917d6",
+                  "type": "skill",
+                  "title": "词汇打卡",
+                  "enabled": true,
+                  "skillCommand": "运行 词汇打卡 skill"
+                },
+                {
+                  "id": "nmt1laf1fjs35z",
+                  "type": "skill",
+                  "title": "刷题相关",
+                  "enabled": true,
+                  "skillCommand": "运行 刷题相关 skill"
+                },
+                {
+                  "id": "nmt1laf1gh6dsu",
+                  "type": "task",
+                  "title": "整理错题笔记",
+                  "enabled": false,
+                  "due": "2026-09-19",
+                  "important": false,
+                  "urgent": false,
+                  "done": false,
+                  "inQuadrant": true,
+                  "note": "示例数据（可清空）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nmt1laf1hw6f4b",
+          "type": "group",
+          "title": "开放大学社会工作",
+          "enabled": true,
+          "items": [
+            {
+              "id": "nmt1laf1iiawlk",
+              "type": "group",
+              "title": "形式考试",
+              "enabled": true,
+              "items": [
+                {
+                  "id": "nmtnrhjs69voic",
+                  "type": "url",
+                  "title": "开大统一认证平台",
+                  "enabled": true,
+                  "url": "https://iam.shou.org.cn/ac/#/index?lck=context_oauth2_3c87a90f679b41f7a7df083a6c74af98&entityId=OT&theme=c7c789acf56a40fc8ecfe20dc56b2aa8"
+                }
+              ]
+            },
+            {
+              "id": "nmt1laf1k34a0d",
+              "type": "group",
+              "title": "课程任务提醒",
+              "enabled": true,
+              "items": [
+                {
+                  "id": "n1788520841139000032ugmy",
+                  "type": "group",
+                  "title": "2026开放大学社工专业秋季课程",
+                  "enabled": true,
+                  "items": [
+                    {
+                      "id": "n1788520841139000008udyj",
+                      "type": "group",
+                      "title": "社会心理学",
+                      "enabled": true,
+                      "items": [
+                        {
+                          "id": "n1788520841139000001ppm5",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 09/11（面授）",
+                          "due": "2026-09-11",
+                          "important": true,
+                          "urgent": true,
+                          "done": true,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，面授，18:15-20:35，教室 1-408。"
+                        },
+                        {
+                          "id": "n178852084113900000205mh",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 10/09（线上直播）",
+                          "due": "2026-10-09",
+                          "important": true,
+                          "urgent": false,
+                          "done": true,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html",
+                          "source": "学习/开放大学社会工作/课程任务提醒/2026开放大学社工专业秋季课程/社会心理学/社会心理学 10/09（线上直播）",
+                          "dueTime": "19:00",
+                          "remind": true,
+                          "remindLead": 5
+                        },
+                        {
+                          "id": "n178852084113900000320xl",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 10/23（线上直播）",
+                          "due": "2026-10-23",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000004a7fb",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 11/06（线上直播）",
+                          "due": "2026-11-06",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000005e1up",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 11/20（线上直播）",
+                          "due": "2026-11-20",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000006006z",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 12/04（线上直播）",
+                          "due": "2026-12-04",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000007vt9o",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会心理学 12/18（线上直播）",
+                          "due": "2026-12-18",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n1788520841139000015geke",
+                      "type": "group",
+                      "title": "个案工作",
+                      "enabled": true,
+                      "items": [
+                        {
+                          "id": "n1788520841139000009um67",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "个案工作 09/18（面授）",
+                          "due": "2026-09-18",
+                          "important": true,
+                          "urgent": true,
+                          "done": true,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：个案工作，面授，18:15-20:35，教室 1-303。"
+                        },
+                        {
+                          "id": "n1788520841139000010j0oz",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "个案工作 10/16（线上直播）",
+                          "due": "2026-10-16",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：个案工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n17885208411390000113hd0",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "个案工作 10/30（线上直播）",
+                          "due": "2026-10-30",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：个案工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000012wrt6",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "个案工作 11/13（线上直播）",
+                          "due": "2026-11-13",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：个案工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000013pbob",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "个案工作 11/27（线上直播）",
+                          "due": "2026-11-27",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：个案工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000014s24c",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "个案工作 12/11（线上直播）",
+                          "due": "2026-12-11",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：个案工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n1788520841139000024tlbt",
+                      "type": "group",
+                      "title": "老年社会工作",
+                      "enabled": true,
+                      "items": [
+                        {
+                          "id": "n17885208411390000165bjn",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 09/24（线上直播）",
+                          "due": "2026-09-24",
+                          "important": true,
+                          "urgent": false,
+                          "done": true,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000017q5r9",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 10/08（线上直播）",
+                          "due": "2026-10-08",
+                          "important": true,
+                          "urgent": false,
+                          "done": true,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000018lpcu",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 10/22（线上直播）",
+                          "due": "2026-10-22",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n17885208411390000197031",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 11/05（线上直播）",
+                          "due": "2026-11-05",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n17885208411390000201zvu",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 11/07（面授）",
+                          "due": "2026-11-07",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，面授，12:30-14:50，教室 1-303。"
+                        },
+                        {
+                          "id": "n1788520841139000021tekh",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 11/19（线上直播）",
+                          "due": "2026-11-19",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000022epoe",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 12/03（线上直播）",
+                          "due": "2026-12-03",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000023yplr",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "老年社会工作 12/17（线上直播）",
+                          "due": "2026-12-17",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n1788520841139000031nvj0",
+                      "type": "group",
+                      "title": "社会研究方法",
+                      "enabled": true,
+                      "items": [
+                        {
+                          "id": "n1788520841139000025cir0",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会研究方法 09/17（线上直播）",
+                          "due": "2026-09-17",
+                          "important": true,
+                          "urgent": false,
+                          "done": true,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000026e60f",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会研究方法 10/15（线上直播）",
+                          "due": "2026-10-15",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000027n4pk",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会研究方法 11/07（面授）",
+                          "due": "2026-11-07",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会研究方法，面授，15:00-17:30，教室 1-303。"
+                        },
+                        {
+                          "id": "n1788520841139000028surd",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会研究方法 11/12（线上直播）",
+                          "due": "2026-11-12",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000029w8ha",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会研究方法 11/26（线上直播）",
+                          "due": "2026-11-26",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        },
+                        {
+                          "id": "n1788520841139000030uml1",
+                          "type": "task",
+                          "enabled": true,
+                          "title": "社会研究方法 12/10（线上直播）",
+                          "due": "2026-12-10",
+                          "important": true,
+                          "urgent": false,
+                          "done": false,
+                          "inQuadrant": true,
+                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
+                          "url": "https://www.eeo.cn/client/invoke/index.html"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nmt1laf1mp662g",
+              "type": "group",
+              "title": "论文撰写",
+              "enabled": true,
+              "items": [
+                {
+                  "id": "nmt1laf1nmfiyr",
+                  "type": "skill",
+                  "title": "论文撰写 skill",
+                  "enabled": true,
+                  "skillCommand": "运行 论文撰写 skill"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "项目": {
+      "enabled": true,
+      "items": [
+        {
+          "id": "nmt1laf1prfg53",
+          "type": "group",
+          "title": "逢泰日常管理",
+          "enabled": true,
+          "items": [
+            {
+              "id": "nmt1laf1qawxq8",
+              "type": "skill",
+              "title": "财务发票确认",
+              "enabled": true,
+              "skillCommand": "运行 财务发票确认 skill"
+            },
+            {
+              "id": "nmt1laf1rdnwhe",
+              "type": "expert",
+              "title": "税务咨询",
+              "enabled": true,
+              "expertName": "税务咨询"
+            },
+            {
+              "id": "nmt1laf1smhzmq",
+              "type": "expert",
+              "title": "合同管理",
+              "enabled": true,
+              "expertName": "合同管理"
+            },
+            {
+              "id": "nmt1laf1tlo68o",
+              "type": "url",
+              "title": "物料制作",
+              "enabled": true,
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "nmt1laf1uuxk9a",
+          "type": "skill",
+          "title": "专案设计",
+          "enabled": true,
+          "skillCommand": "运行 专案设计 skill"
+        },
+        {
+          "id": "nmt1laf1vn7a4q",
+          "type": "group",
+          "title": "小程序开发",
+          "enabled": true,
+          "items": [
+            {
+              "id": "nmt1laf1wh0b8u",
+              "type": "skill",
+              "title": "游戏口袋",
+              "enabled": true,
+              "skillCommand": "运行 游戏口袋 skill"
+            },
+            {
+              "id": "nmt1laf1xxpzbj",
+              "type": "skill",
+              "title": "正字计数小程序",
+              "enabled": true,
+              "skillCommand": "运行 正字计数小程序 skill"
+            },
+            {
+              "id": "nmtnsls7d29byr",
+              "type": "group",
+              "title": "奥数Gizmo游戏智能体",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    "家庭": {
+      "enabled": true,
+      "items": [
+        {
+          "id": "nmt1laf1yecx2d",
+          "type": "group",
+          "title": "追踪提醒",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "nmt1laf1zqdpbu",
+          "type": "skill",
+          "title": "计划/方案制定",
+          "enabled": true,
+          "skillCommand": "运行 计划/方案制定 skill"
+        },
+        {
+          "id": "nmtnrhjs7jtbrj",
+          "type": "group",
+          "title": "签证办理",
+          "enabled": true,
+          "due": "",
+          "important": false,
+          "urgent": false,
+          "inQuadrant": true,
+          "done": false,
+          "note": "",
+          "url": "",
+          "items": [
+            {
+              "id": "nmtnrhjsafaj1m",
+              "type": "task",
+              "title": "开具存款证明",
+              "enabled": true,
+              "due": "",
+              "important": true,
+              "urgent": true,
+              "inQuadrant": true,
+              "done": true,
+              "note": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "quadrantTasks": [
+    {
+      "id": "r1",
+      "title": "本月发票核对",
+      "source": "项目/逢泰日常管理/财务发票确认",
+      "important": true,
+      "urgent": false,
+      "due": "2026-10-12",
+      "done": true,
+      "note": "示例数据（可清空）",
+      "inQuadrant": true,
+      "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "url": ""
+    },
+    {
+      "id": "nmtnrhjs5ao6hs",
+      "title": "拿书",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "2026-09-06",
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmtnsls7c853r0",
+      "title": "提醒申请发票额度",
+      "source": "项目",
+      "important": true,
+      "urgent": true,
+      "due": "2026-09-07",
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmtpu8f8k1dclt",
+      "title": "开学第一课",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "2026-09-07",
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": "https://lifelong.smartedu.cn/Event/kxdyk26-1"
+    },
+    {
+      "id": "nmtqstrureox8x",
+      "title": "信泰保险费资金准备",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-09-15",
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmtuu6xh026koa",
+      "title": "老年社会工作直播课",
+      "source": "学习",
+      "important": true,
+      "urgent": false,
+      "due": "2026-09-10",
+      "done": true,
+      "note": "晚上7点",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": "https://www.eeo.cn/client/invoke/index.html",
+      "dueTime": "19:00"
+    },
+    {
+      "id": "nmualdiu83vn4s",
+      "title": "甜甜圈发票",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-09-21",
+      "dueTime": "10:00",
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmualdiu9yas0i",
+      "title": "庆丰富发票",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-09-21",
+      "dueTime": "10:00",
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmufd6alrov8fh",
+      "title": "2500打款给陆佳伟",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "2026-09-24",
+      "dueTime": "18:30",
+      "remind": true,
+      "remindLead": 5,
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmuzecuaamrxct",
+      "title": "停水",
+      "source": "家庭",
+      "important": false,
+      "urgent": true,
+      "due": "2026-10-15",
+      "dueTime": "12:33",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmv0hi8immo8jn",
+      "title": "童桢牙齿复诊",
+      "source": "家庭",
+      "important": false,
+      "urgent": true,
+      "due": "2026-10-10",
+      "dueTime": "14:00",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmv0v94gtexdbd",
+      "title": "社会心理学网课",
+      "source": "事务",
+      "important": true,
+      "urgent": false,
+      "due": "2026-10-20",
+      "dueTime": "19:00",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": "https://www.eeo.cn/client/invoke/index.html"
+    }
+  ],
+  "inspirationNotes": [
+    {
+      "id": "nmtmvg08n9hhn7",
+      "text": "不但如此，就是在患难中也是欢欢喜喜的；因为知道患难生忍耐， 忍耐生老练，老练生盼望； 盼望不至于羞耻，因为所赐给我们的圣灵将　神的爱浇灌在我们心里。 (罗马书 5:3-5 和合本)",
+      "createdAt": "2026-09-04T11:29:56.104Z"
+    }
+  ],
+  "meta": {
+    "importedCourseSchedules": [
+      "2025fall-openu"
+    ]
+  }
 }
