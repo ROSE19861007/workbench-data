@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-10T13:01:48.823Z"
+    "lastSync": "2026-10-12T10:33:57.919Z"
   },
   "categories": {
     "学习": {
@@ -809,6 +809,22 @@
       "inQuadrant": true,
       "enabled": true,
       "url": "https://www.eeo.cn/client/invoke/index.html"
+    },
+    {
+      "id": "nmv546ynas0nxe",
+      "title": "秋游零食",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
     }
   ],
   "inspirationNotes": [
