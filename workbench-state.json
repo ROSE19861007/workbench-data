@@ -855,7 +855,9 @@
       "inQuadrant": true,
       "remind": false,
       "remindLead": 0,
-      "url": ""
+      "url": "",
+      "repeat": "monthly",
+      "repeatDay": 10
     }
   ],
   "inspirationNotes": [
