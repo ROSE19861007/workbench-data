@@ -841,6 +841,21 @@
       "inQuadrant": true,
       "enabled": true,
       "url": ""
+    },
+    {
+      "id": "salary-monthly-10th",
+      "title": "发工资（员工工资发放）",
+      "source": "财务/月度固定事项",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-10",
+      "dueTime": "17:00",
+      "done": false,
+      "note": "每月10号 17:00 发工资｜东亚银行上海分行 对公基本户 尾号3400｜逢泰开明建筑设计咨询服务有限公司",
+      "inQuadrant": true,
+      "remind": false,
+      "remindLead": 0,
+      "url": ""
     }
   ],
   "inspirationNotes": [
