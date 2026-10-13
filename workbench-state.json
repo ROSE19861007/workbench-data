@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-12T10:33:57.919Z"
+    "lastSync": "2026-10-13T04:59:32.653Z"
   },
   "categories": {
     "学习": {
@@ -818,6 +818,22 @@
       "urgent": true,
       "due": "",
       "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmv67nhd9nz315",
+      "title": "发工资",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "2026-10-13",
+      "dueTime": "13:30",
       "remind": false,
       "remindLead": 5,
       "done": false,
