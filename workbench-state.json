@@ -857,7 +857,8 @@
       "remindLead": 0,
       "url": "",
       "repeat": "monthly",
-      "repeatDay": 10
+      "repeatDay": 10,
+      "remindLeadDays": 3
     },
     {
       "id": "nmv8yigrw7gpsa",
