@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-15T03:06:31.377Z"
+    "lastSync": "2026-10-15T03:10:30.482Z"
   },
   "categories": {
     "学习": {
@@ -858,6 +858,22 @@
       "url": "",
       "repeat": "monthly",
       "repeatDay": 10
+    },
+    {
+      "id": "nmv8yigrw7gpsa",
+      "title": "择校讲座",
+      "source": "家庭",
+      "important": true,
+      "urgent": false,
+      "due": "2026-10-22",
+      "dueTime": "01:30",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "新虹街道社区学校三楼多功能厅\n13:30\t宁虹路1122号B栋",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
     }
   ],
   "inspirationNotes": [
