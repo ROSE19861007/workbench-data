@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-16T13:22:32.277Z"
+    "lastSync": "2026-10-16T13:23:54.042Z"
   },
   "categories": {
     "学习": {
@@ -582,6 +582,12 @@
               "id": "nmtnsls7d29byr",
               "type": "group",
               "title": "奥数Gizmo游戏智能体",
+              "enabled": true
+            },
+            {
+              "id": "nmvb00263vjg7h",
+              "type": "group",
+              "title": "空间编辑器",
               "enabled": true
             }
           ]
