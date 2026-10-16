@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-15T12:49:58.875Z"
+    "lastSync": "2026-10-16T03:46:48.415Z"
   },
   "categories": {
     "学习": {
@@ -882,6 +882,11 @@
       "id": "nmtmvg08n9hhn7",
       "text": "不但如此，就是在患难中也是欢欢喜喜的；因为知道患难生忍耐， 忍耐生老练，老练生盼望； 盼望不至于羞耻，因为所赐给我们的圣灵将　神的爱浇灌在我们心里。 (罗马书 5:3-5 和合本)",
       "createdAt": "2026-09-04T11:29:56.104Z"
+    },
+    {
+      "id": "nmvafe4zanc61y",
+      "text": "士师记，雅歌",
+      "createdAt": "2026-10-16T03:47:15.867Z"
     }
   ],
   "meta": {
