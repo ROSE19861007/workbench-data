@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-16T07:26:06.187Z"
+    "lastSync": "2026-10-16T07:27:05.072Z"
   },
   "categories": {
     "学习": {
@@ -882,6 +882,22 @@
       "source": "事务",
       "important": false,
       "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvan8rzc2h0yy",
+      "title": "卖旧衣",
+      "source": "事务",
+      "important": false,
+      "urgent": false,
       "due": "",
       "dueTime": "",
       "remind": false,
