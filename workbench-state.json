@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-16T13:24:13.575Z"
+    "lastSync": "2026-10-16T13:44:33.972Z"
   },
   "categories": {
     "学习": {
@@ -960,6 +960,22 @@
       "urgent": false,
       "due": "2026-10-31",
       "dueTime": "12:30",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvb00265rz924",
+      "title": "PIKA老师退款",
+      "source": "家庭",
+      "important": true,
+      "urgent": false,
+      "due": "2026-10-19",
+      "dueTime": "",
       "remind": false,
       "remindLead": 5,
       "done": false,
