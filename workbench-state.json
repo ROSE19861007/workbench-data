@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-16T13:44:33.972Z"
+    "lastSync": "2026-10-17T09:26:10.348Z"
   },
   "categories": {
     "学习": {
@@ -805,22 +805,6 @@
       "inQuadrant": true,
       "enabled": true,
       "url": ""
-    },
-    {
-      "id": "nmv0v94gtexdbd",
-      "title": "社会心理学网课",
-      "source": "事务",
-      "important": true,
-      "urgent": false,
-      "due": "2026-10-20",
-      "dueTime": "19:00",
-      "remind": false,
-      "remindLead": 5,
-      "done": false,
-      "note": "",
-      "inQuadrant": true,
-      "enabled": true,
-      "url": "https://www.eeo.cn/client/invoke/index.html"
     },
     {
       "id": "nmv546ynas0nxe",
