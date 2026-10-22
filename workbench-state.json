@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-22T11:06:57.057Z"
+    "lastSync": "2026-10-22T11:07:05.283Z"
   },
   "categories": {
     "学习": {
@@ -866,7 +866,7 @@
       "dueTime": "01:30",
       "remind": false,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "新虹街道社区学校三楼多功能厅\n13:30\t宁虹路1122号B栋",
       "inQuadrant": true,
       "enabled": true,
