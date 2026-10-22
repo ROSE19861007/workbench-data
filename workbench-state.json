@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-19T01:18:08.837Z"
+    "lastSync": "2026-10-22T02:11:33.298Z"
   },
   "categories": {
     "学习": {
@@ -967,6 +967,22 @@
       "inQuadrant": true,
       "enabled": true,
       "url": "https://www.eeo.cn/client/invoke/index.html"
+    },
+    {
+      "id": "nmviwmr7svvd5s",
+      "title": "航空学院设计图＋ppt",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
     }
   ],
   "inspirationNotes": [
