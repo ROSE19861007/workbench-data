@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-26T09:39:23.988Z"
+    "lastSync": "2026-10-27T13:15:23.547Z"
   },
   "categories": {
     "学习": {
@@ -149,7 +149,7 @@
                           "due": "2026-10-23",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
@@ -1011,6 +1011,22 @@
       "remind": false,
       "remindLead": 5,
       "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvqpjptvwrfad",
+      "title": "neo donut员工视频制作",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
