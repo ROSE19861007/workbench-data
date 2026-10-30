@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-27T13:15:23.547Z"
+    "lastSync": "2026-10-30T09:25:48.876Z"
   },
   "categories": {
     "学习": {
@@ -597,6 +597,12 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "nmvuro177j1gb0",
+          "type": "group",
+          "title": "neo donut员工培训视频制作",
+          "enabled": true
         }
       ]
     },
