@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-30T13:35:53.201Z"
+    "lastSync": "2026-10-30T13:36:18.163Z"
   },
   "categories": {
     "学习": {
@@ -1137,6 +1137,22 @@
     {
       "id": "nmvv0kxmh5zq6d",
       "title": "洗空调",
+      "source": "事务",
+      "important": false,
+      "urgent": false,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvv0kxmi8u6h6",
+      "title": "洗烧水壶",
       "source": "事务",
       "important": false,
       "urgent": false,
