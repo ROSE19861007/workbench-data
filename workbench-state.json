@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-30T09:26:48.866Z"
+    "lastSync": "2026-10-30T09:27:09.044Z"
   },
   "categories": {
     "学习": {
@@ -1041,6 +1041,22 @@
     {
       "id": "nmvuro1785slei",
       "title": "打款给陆",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvuro17925xt1",
+      "title": "打款给徐伟智",
       "source": "事务",
       "important": false,
       "urgent": true,
