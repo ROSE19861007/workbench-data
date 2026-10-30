@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-30T12:21:03.406Z"
+    "lastSync": "2026-10-30T12:21:11.293Z"
   },
   "categories": {
     "学习": {
@@ -247,7 +247,7 @@
                           "due": "2026-10-30",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：个案工作，线上直播，19:00-20:30，教室 1-303。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
