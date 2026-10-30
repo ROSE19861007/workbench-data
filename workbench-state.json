@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-30T09:27:22.457Z"
+    "lastSync": "2026-10-30T12:20:42.634Z"
   },
   "categories": {
     "学习": {
@@ -1066,6 +1066,22 @@
       "remindLead": 5,
       "done": false,
       "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvuxxjznl9qq0",
+      "title": "童桢剪头发",
+      "source": "事务",
+      "important": false,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "13：20",
       "inQuadrant": true,
       "enabled": true,
       "url": ""
