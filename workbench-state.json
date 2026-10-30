@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-30T13:34:53.579Z"
+    "lastSync": "2026-10-30T13:35:17.646Z"
   },
   "categories": {
     "学习": {
@@ -1105,6 +1105,22 @@
     {
       "id": "nmvv0kxmemzfqt",
       "title": "换除湿剂",
+      "source": "家庭",
+      "important": false,
+      "urgent": false,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvv0kxmfwb9r7",
+      "title": "洗油烟机",
       "source": "家庭",
       "important": false,
       "urgent": false,
