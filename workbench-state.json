@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-10-31T05:31:45.744Z"
+    "lastSync": "2026-11-01T06:59:24.164Z"
   },
   "categories": {
     "学习": {
@@ -1174,6 +1174,22 @@
       "urgent": false,
       "due": "2026-12-26",
       "dueTime": "12:00",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvxhbfxqu4542",
+      "title": "童桢还书",
+      "source": "家庭",
+      "important": false,
+      "urgent": false,
+      "due": "2026-11-15",
+      "dueTime": "",
       "remind": false,
       "remindLead": 5,
       "done": false,
