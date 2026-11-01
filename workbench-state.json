@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-01T07:01:29.089Z"
+    "lastSync": "2026-11-01T14:02:16.697Z"
   },
   "categories": {
     "学习": {
@@ -1205,6 +1205,22 @@
       "important": false,
       "urgent": false,
       "due": "2026-11-22",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmvxwber3t8kvu",
+      "title": "童桢挂号",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "",
       "dueTime": "",
       "remind": false,
       "remindLead": 5,
