@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-03T10:14:40.095Z"
+    "lastSync": "2026-11-03T13:35:50.048Z"
   },
   "categories": {
     "学习": {
@@ -1225,6 +1225,22 @@
       "remind": false,
       "remindLead": 5,
       "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmw0qdkt8ijsnw",
+      "title": "布置圣诞树",
+      "source": "家庭",
+      "important": false,
+      "urgent": false,
+      "due": "",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
