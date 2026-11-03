@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-03T13:35:50.048Z"
+    "lastSync": "2026-11-03T13:36:41.493Z"
   },
   "categories": {
     "学习": {
@@ -1238,6 +1238,22 @@
       "urgent": false,
       "due": "",
       "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmw0qdkt9v5xa6",
+      "title": "童桢看眼科",
+      "source": "家庭",
+      "important": false,
+      "urgent": false,
+      "due": "2026-11-06",
+      "dueTime": "09:30",
       "remind": false,
       "remindLead": 5,
       "done": false,
