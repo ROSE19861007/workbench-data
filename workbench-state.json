@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-03T13:37:01.025Z"
+    "lastSync": "2026-11-03T13:37:13.930Z"
   },
   "categories": {
     "学习": {
@@ -1024,7 +1024,7 @@
     },
     {
       "id": "nmvqpjptvwrfad",
-      "title": "neo donut员工视频制作",
+      "title": "neo donut员工视频制作第一章",
       "source": "事务",
       "important": true,
       "urgent": true,
@@ -1032,7 +1032,7 @@
       "dueTime": "",
       "remind": false,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
