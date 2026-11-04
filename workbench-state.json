@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-03T13:37:13.930Z"
+    "lastSync": "2026-11-04T04:17:36.360Z"
   },
   "categories": {
     "学习": {
@@ -1254,6 +1254,22 @@
       "urgent": true,
       "due": "2026-11-06",
       "dueTime": "09:30",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmw1lvj9a89vmz",
+      "title": "妇科检查",
+      "source": "家庭",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-05",
+      "dueTime": "13:00",
       "remind": false,
       "remindLead": 5,
       "done": false,
