@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-06T10:14:49.435Z"
+    "lastSync": "2026-11-06T10:16:13.100Z"
   },
   "categories": {
     "学习": {
@@ -1325,6 +1325,22 @@
       "inQuadrant": true,
       "enabled": true,
       "url": ""
+    },
+    {
+      "id": "nmw4tfbls8cqkl",
+      "title": "社会心理形考",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-20",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": "https://iam.shou.org.cn/ac/#/index?lck=context_oauth2_3c87a90f679b41f7a7df083a6c74af98&entityId=OT&theme=c7c789acf56a40fc8ecfe20dc56b2aa8"
     }
   ],
   "inspirationNotes": [
