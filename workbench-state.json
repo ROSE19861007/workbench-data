@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-06T10:22:07.925Z"
+    "lastSync": "2026-11-06T12:07:45.666Z"
   },
   "categories": {
     "学习": {
@@ -162,7 +162,7 @@
                           "due": "2026-11-06",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
@@ -346,7 +346,7 @@
                           "due": "2026-11-05",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
