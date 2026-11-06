@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-06T10:20:29.728Z"
+    "lastSync": "2026-11-06T10:21:15.139Z"
   },
   "categories": {
     "学习": {
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "nmw4tfbltz3fcr",
-      "title": "老年工作",
+      "title": "老年工作形考",
       "source": "学习",
       "important": true,
       "urgent": true,
@@ -1359,12 +1359,12 @@
       "url": "https://iam.shou.org.cn/ac/#/index?lck=context_oauth2_3c87a90f679b41f7a7df083a6c74af98&entityId=OT&theme=c7c789acf56a40fc8ecfe20dc56b2aa8"
     },
     {
-      "id": "nmw4toobd4gl26",
-      "title": "fig 小程序",
-      "source": "学习",
+      "id": "nmw4tqxjvvhols",
+      "title": "个案工作形考",
+      "source": "事务",
       "important": true,
-      "urgent": false,
-      "due": "",
+      "urgent": true,
+      "due": "2026-11-20",
       "dueTime": "",
       "remind": false,
       "remindLead": 5,
@@ -1372,7 +1372,7 @@
       "note": "",
       "inQuadrant": true,
       "enabled": true,
-      "url": ""
+      "url": "https://iam.shou.org.cn/ac/#/index?lck=context_oauth2_3c87a90f679b41f7a7df083a6c74af98&entityId=OT&theme=c7c789acf56a40fc8ecfe20dc56b2aa8"
     }
   ],
   "inspirationNotes": [
