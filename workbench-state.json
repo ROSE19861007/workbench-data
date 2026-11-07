@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-06T12:07:45.666Z"
+    "lastSync": "2026-11-07T00:42:12.975Z"
   },
   "categories": {
     "学习": {
@@ -1381,6 +1381,22 @@
       "important": true,
       "urgent": true,
       "due": "2026-11-20",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmw5oi41kg3huk",
+      "title": "装滤芯",
+      "source": "家庭",
+      "important": false,
+      "urgent": true,
+      "due": "2026-11-10",
       "dueTime": "",
       "remind": false,
       "remindLead": 5,
