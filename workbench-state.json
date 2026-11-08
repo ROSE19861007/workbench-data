@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-07T00:42:41.107Z"
+    "lastSync": "2026-11-08T08:47:56.646Z"
   },
   "categories": {
     "学习": {
@@ -359,7 +359,7 @@
                           "due": "2026-11-07",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：老年社会工作，面授，12:30-14:50，教室 1-303。"
                         },
@@ -444,7 +444,7 @@
                           "due": "2026-11-07",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：社会研究方法，面授，15:00-17:30，教室 1-303。"
                         },
