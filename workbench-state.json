@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-09T05:51:54.064Z"
+    "lastSync": "2026-11-11T05:57:57.001Z"
   },
   "categories": {
     "学习": {
@@ -850,7 +850,7 @@
       "source": "财务/月度固定事项",
       "important": true,
       "urgent": true,
-      "due": "2026-11-10",
+      "due": "2026-12-10",
       "dueTime": "17:00",
       "done": false,
       "note": "每月10号 17:00 发工资｜东亚银行上海分行 对公基本户 尾号3400｜逢泰开明建筑设计咨询服务有限公司",
@@ -1300,7 +1300,7 @@
       "source": "家庭",
       "important": true,
       "urgent": true,
-      "due": "2026-11-12",
+      "due": "2026-11-16",
       "dueTime": "10:00",
       "remind": false,
       "remindLead": 5,
