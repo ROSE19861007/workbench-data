@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-11T05:59:13.217Z"
+    "lastSync": "2026-11-11T05:59:26.601Z"
   },
   "categories": {
     "学习": {
@@ -1401,6 +1401,22 @@
       "remind": false,
       "remindLead": 5,
       "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwbpl7vko4bro",
+      "title": "社会研究方法网课",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-11",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": false,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
