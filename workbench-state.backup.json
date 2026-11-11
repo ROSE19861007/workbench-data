@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-09T05:51:54.064Z"
+    "lastSync": "2026-11-11T06:00:06.070Z"
   },
   "categories": {
     "学习": {
@@ -449,19 +449,6 @@
                           "note": "2026秋学期课程表：社会研究方法，面授，15:00-17:30，教室 1-303。"
                         },
                         {
-                          "id": "n1788520841139000028surd",
-                          "type": "task",
-                          "enabled": true,
-                          "title": "社会研究方法 11/12（线上直播）",
-                          "due": "2026-11-12",
-                          "important": true,
-                          "urgent": false,
-                          "done": false,
-                          "inQuadrant": true,
-                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
-                          "url": "https://www.eeo.cn/client/invoke/index.html"
-                        },
-                        {
                           "id": "n1788520841139000029w8ha",
                           "type": "task",
                           "enabled": true,
@@ -850,7 +837,7 @@
       "source": "财务/月度固定事项",
       "important": true,
       "urgent": true,
-      "due": "2026-11-10",
+      "due": "2026-12-10",
       "dueTime": "17:00",
       "done": false,
       "note": "每月10号 17:00 发工资｜东亚银行上海分行 对公基本户 尾号3400｜逢泰开明建筑设计咨询服务有限公司",
@@ -1300,7 +1287,7 @@
       "source": "家庭",
       "important": true,
       "urgent": true,
-      "due": "2026-11-12",
+      "due": "2026-11-16",
       "dueTime": "10:00",
       "remind": false,
       "remindLead": 5,
@@ -1397,6 +1384,22 @@
       "important": false,
       "urgent": true,
       "due": "2026-11-10",
+      "dueTime": "",
+      "remind": false,
+      "remindLead": 5,
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwbpl7vko4bro",
+      "title": "社会研究方法网课",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-11",
       "dueTime": "",
       "remind": false,
       "remindLead": 5,
