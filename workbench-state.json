@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-11T05:59:26.601Z"
+    "lastSync": "2026-11-11T06:00:06.070Z"
   },
   "categories": {
     "学习": {
@@ -447,19 +447,6 @@
                           "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：社会研究方法，面授，15:00-17:30，教室 1-303。"
-                        },
-                        {
-                          "id": "n1788520841139000028surd",
-                          "type": "task",
-                          "enabled": true,
-                          "title": "社会研究方法 11/12（线上直播）",
-                          "due": "2026-11-12",
-                          "important": true,
-                          "urgent": false,
-                          "done": false,
-                          "inQuadrant": true,
-                          "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
-                          "url": "https://www.eeo.cn/client/invoke/index.html"
                         },
                         {
                           "id": "n1788520841139000029w8ha",
