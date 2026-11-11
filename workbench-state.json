@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-11T13:59:52.734Z"
+    "lastSync": "2026-11-11T14:00:21.095Z"
   },
   "categories": {
     "学习": {
@@ -1375,7 +1375,7 @@
       "note": "",
       "inQuadrant": true,
       "enabled": true,
-      "url": ""
+      "url": "https://learning.shou.org.cn/scenter?xh=310_20262310050219&xhtoken=ad3f27ab68411e7721e25b79ba2bf818&timespan=1794405027"
     },
     {
       "id": "nmw5oi41kg3huk",
