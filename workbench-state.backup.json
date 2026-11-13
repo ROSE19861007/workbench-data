@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-12T15:46:31.719Z"
+    "lastSync": "2026-11-13T04:14:50.193Z"
   },
   "categories": {
     "学习": {
@@ -1363,13 +1363,13 @@
     },
     {
       "id": "nmw4tqxjwtkj96",
-      "title": "社会方法研究形考",
+      "title": "社会方法研究视频收看",
       "source": "事务",
       "important": true,
       "urgent": true,
       "due": "2026-11-20",
       "dueTime": "",
-      "remind": false,
+      "remind": true,
       "remindLead": 5,
       "done": false,
       "note": "",
