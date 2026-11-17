@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-17T14:51:35.458Z"
+    "lastSync": "2026-11-17T14:52:20.285Z"
   },
   "categories": {
     "学习": {
@@ -1480,6 +1480,22 @@
       "important": true,
       "urgent": true,
       "due": "2026-11-24",
+      "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwkt71qts0mnd",
+      "title": "小型企业经营分析器开发",
+      "source": "项目",
+      "important": true,
+      "urgent": false,
+      "due": "",
       "dueTime": "",
       "remind": true,
       "remindLead": 5,
