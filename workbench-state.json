@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-17T06:32:48.101Z"
+    "lastSync": "2026-11-17T14:51:35.458Z"
   },
   "categories": {
     "学习": {
@@ -1464,6 +1464,22 @@
       "important": false,
       "urgent": false,
       "due": "",
+      "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwkt71qscn10x",
+      "title": "红房子妇科",
+      "source": "家庭",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-24",
       "dueTime": "",
       "remind": true,
       "remindLead": 5,
