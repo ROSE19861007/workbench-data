@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-17T06:31:38.974Z"
+    "lastSync": "2026-11-17T06:32:48.101Z"
   },
   "categories": {
     "学习": {
@@ -1447,6 +1447,22 @@
       "source": "事务",
       "important": true,
       "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwkbcitseszk4",
+      "title": "送洗皮包",
+      "source": "事务",
+      "important": false,
+      "urgent": false,
       "due": "",
       "dueTime": "",
       "remind": true,
