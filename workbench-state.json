@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-17T06:30:40.071Z"
+    "lastSync": "2026-11-17T06:31:11.826Z"
   },
   "categories": {
     "学习": {
@@ -1317,7 +1317,7 @@
       "id": "nmw4tfbls8cqkl",
       "title": "社会心理视频收看",
       "source": "事务",
-      "important": true,
+      "important": false,
       "urgent": true,
       "due": "",
       "dueTime": "",
@@ -1349,7 +1349,7 @@
       "id": "nmw4tqxjvvhols",
       "title": "个案工作视频收看",
       "source": "事务",
-      "important": true,
+      "important": false,
       "urgent": true,
       "due": "2026-11-20",
       "dueTime": "",
@@ -1365,7 +1365,7 @@
       "id": "nmw4tqxjwtkj96",
       "title": "社会方法研究视频收看",
       "source": "事务",
-      "important": true,
+      "important": false,
       "urgent": true,
       "due": "2026-11-20",
       "dueTime": "",
