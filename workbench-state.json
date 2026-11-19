@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-17T14:53:51.828Z"
+    "lastSync": "2026-11-19T04:16:30.020Z"
   },
   "categories": {
     "学习": {
@@ -1497,6 +1497,22 @@
       "urgent": true,
       "due": "",
       "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwn1fj9ar2xif",
+      "title": "薛老师5年级讲座",
+      "source": "家庭",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-24",
+      "dueTime": "20:30",
       "remind": true,
       "remindLead": 5,
       "done": false,
