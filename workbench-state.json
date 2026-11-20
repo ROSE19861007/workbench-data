@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-20T12:49:01.073Z"
+    "lastSync": "2026-11-20T12:49:10.929Z"
   },
   "categories": {
     "学习": {
@@ -1513,6 +1513,22 @@
       "urgent": true,
       "due": "2026-11-24",
       "dueTime": "20:30",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwoz6trtejx35",
+      "title": "修改联营店合同",
+      "source": "项目",
+      "important": true,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
       "remind": true,
       "remindLead": 5,
       "done": false,
