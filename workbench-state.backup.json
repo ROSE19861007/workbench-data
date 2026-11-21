@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-19T04:16:30.020Z"
+    "lastSync": "2026-11-20T12:51:43.834Z"
   },
   "categories": {
     "学习": {
@@ -175,7 +175,7 @@
                           "due": "2026-11-20",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：社会心理学，线上直播，19:00-20:30，教室 1-408。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
@@ -371,7 +371,7 @@
                           "due": "2026-11-19",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：老年社会工作，线上直播，19:00-20:30，教室 1-303。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
@@ -1513,6 +1513,38 @@
       "urgent": true,
       "due": "2026-11-24",
       "dueTime": "20:30",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwoz6trtejx35",
+      "title": "修改联营店合同",
+      "source": "项目",
+      "important": true,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": true,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwoz6trullhnd",
+      "title": "修改饮之梦合同",
+      "source": "项目",
+      "important": true,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
       "remind": true,
       "remindLead": 5,
       "done": false,
