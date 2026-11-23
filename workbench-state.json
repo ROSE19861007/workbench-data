@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-21T02:33:13.389Z"
+    "lastSync": "2026-11-23T07:45:50.420Z"
   },
   "categories": {
     "学习": {
@@ -1572,6 +1572,22 @@
     {
       "id": "nmwpsc1062635u",
       "title": "Neo donut经营仪表盘开发",
+      "source": "项目",
+      "important": true,
+      "urgent": true,
+      "due": "",
+      "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwsyogosox7t8",
+      "title": "12333咨询公司性质问题",
       "source": "项目",
       "important": true,
       "urgent": true,
