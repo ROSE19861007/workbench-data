@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-24T09:24:14.569Z"
+    "lastSync": "2026-11-24T09:37:43.814Z"
   },
   "categories": {
     "学习": {
@@ -1483,7 +1483,7 @@
       "dueTime": "",
       "remind": true,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
@@ -1595,7 +1595,7 @@
       "dueTime": "",
       "remind": true,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
@@ -1627,7 +1627,7 @@
       "dueTime": "",
       "remind": true,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
