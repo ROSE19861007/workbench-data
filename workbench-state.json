@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-24T10:34:28.894Z"
+    "lastSync": "2026-11-24T10:34:42.944Z"
   },
   "categories": {
     "学习": {
@@ -1641,6 +1641,22 @@
       "urgent": false,
       "due": "2026-12-11",
       "dueTime": "13:30",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwuk58le846qu",
+      "title": "长妇幼专家",
+      "source": "事务",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-27",
+      "dueTime": "14:00",
       "remind": true,
       "remindLead": 5,
       "done": false,
