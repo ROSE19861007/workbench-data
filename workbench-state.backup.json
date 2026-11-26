@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-25T03:02:43.648Z"
+    "lastSync": "2026-11-26T11:11:16.712Z"
   },
   "categories": {
     "学习": {
@@ -456,7 +456,7 @@
                           "due": "2026-11-26",
                           "important": true,
                           "urgent": false,
-                          "done": false,
+                          "done": true,
                           "inQuadrant": true,
                           "note": "2026秋学期课程表：社会研究方法，线上直播，19:00-20:30，教室 1-303。",
                           "url": "https://www.eeo.cn/client/invoke/index.html"
@@ -1515,7 +1515,7 @@
       "dueTime": "20:30",
       "remind": true,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
