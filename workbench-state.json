@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-27T01:53:47.667Z"
+    "lastSync": "2026-11-27T08:13:13.668Z"
   },
   "categories": {
     "学习": {
@@ -1659,7 +1659,7 @@
       "dueTime": "14:00",
       "remind": true,
       "remindLead": 5,
-      "done": false,
+      "done": true,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
@@ -1705,6 +1705,22 @@
       "urgent": true,
       "due": "",
       "dueTime": "",
+      "remind": true,
+      "remindLead": 5,
+      "done": false,
+      "note": "",
+      "inQuadrant": true,
+      "enabled": true,
+      "url": ""
+    },
+    {
+      "id": "nmwypf58eal3ei",
+      "title": "子宫内膜息肉手术",
+      "source": "家庭",
+      "important": true,
+      "urgent": true,
+      "due": "2026-11-30",
+      "dueTime": "19:00",
       "remind": true,
       "remindLead": 5,
       "done": false,
