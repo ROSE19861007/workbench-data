@@ -3,7 +3,7 @@
   "sync": {
     "url": "https://api.github.com/repos/rose19861007/workbench-data/contents/workbench-state.json",
     "token": "",
-    "lastSync": "2026-11-28T03:26:34.404Z"
+    "lastSync": "2026-11-28T03:26:52.734Z"
   },
   "categories": {
     "学习": {
@@ -972,22 +972,6 @@
       "remind": false,
       "remindLead": 5,
       "done": true,
-      "note": "",
-      "inQuadrant": true,
-      "enabled": true,
-      "url": ""
-    },
-    {
-      "id": "nmvjfqm7l3zww2",
-      "title": "制作项目合同财务全流程跟踪skill",
-      "source": "项目",
-      "important": true,
-      "urgent": false,
-      "due": "",
-      "dueTime": "",
-      "remind": false,
-      "remindLead": 5,
-      "done": false,
       "note": "",
       "inQuadrant": true,
       "enabled": true,
